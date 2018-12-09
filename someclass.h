@@ -5,6 +5,7 @@ class SomeClass
 {
 public:
     SomeClass();
+    void greeting();
 };
 
 #endif // SOMECLASS_H
