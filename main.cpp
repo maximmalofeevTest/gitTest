@@ -9,6 +9,7 @@ int main(int argc, char** argv)
     }
     SomeClass someClass;
     someClass.greeting();
+    std::cout << "press something to exit" << std::endl;
     std::cin.get();
 	return 0;
 }
