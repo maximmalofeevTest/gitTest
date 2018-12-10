@@ -6,6 +6,7 @@ class SomeClass
 public:
     SomeClass();
     void greeting();
+    void newFeature();
 };
 
 #endif // SOMECLASS_H

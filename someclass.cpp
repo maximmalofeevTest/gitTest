@@ -10,3 +10,8 @@ void SomeClass::greeting()
 {
     std::cout << "Some class greetings you" << std::endl;
 }
+
+void SomeClass::newFeature()
+{
+    std::cout << "This is the new awesom feature!!!" << std::endl;
+}
