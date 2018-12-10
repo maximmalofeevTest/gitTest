@@ -15,3 +15,8 @@ void SomeClass::newFeature()
 {
     std::cout << "This is the new awesom feature!!!" << std::endl;
 }
+
+void SomeClass::blabla()
+{
+    std::cout << "Bla bla" << std::endl;
+}
