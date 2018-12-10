@@ -18,5 +18,5 @@ void SomeClass::newFeature()
 
 void SomeClass::blabla()
 {
-    std::cout << "Bla bla" << std::endl;
+    std::cout << "Bla bla bla ..." << std::endl;
 }
