@@ -13,5 +13,5 @@ void SomeClass::greeting()
 
 void SomeClass::newFeature()
 {
-    std::cout << "This is the new awesom feature" << std::endl;
+    std::cout << "This is the new awesom feature!!!" << std::endl;
 }
