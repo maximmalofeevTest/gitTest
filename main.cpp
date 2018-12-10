@@ -3,7 +3,7 @@
 
 int main(int argc, char** argv)
 {
-    std::cout << "Hello from main" << std::endl;
+    std::cout << "Hello from main of " << argv[0] << std::endl;
     SomeClass someClass;
     someClass.greeting();
     std::cin.get();
