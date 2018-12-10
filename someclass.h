@@ -7,6 +7,7 @@ public:
     SomeClass();
     void greeting();
     void newFeature();
+    void blabla();
 };
 
 #endif // SOMECLASS_H
