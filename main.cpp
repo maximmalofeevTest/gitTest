@@ -5,7 +5,7 @@ int main(int argc, char** argv)
 {
     std::cout << "Hello from main of " << argv[0] << " with " << argc << " argc:" << std::endl;
     for(auto i = 1; i <= argc; i++){
-        std::cout << argv[i] << std::endl;
+        std::cout << "#" << i << " = " << argv[i] << std::endl;
     }
     SomeClass someClass;
     someClass.greeting();
