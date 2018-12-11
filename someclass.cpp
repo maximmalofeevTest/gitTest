@@ -20,3 +20,8 @@ void SomeClass::blabla()
 {
     std::cout << "Bla bla bla ..." << std::endl;
 }
+
+void SomeClass::classInfo()
+{
+    std::cout << "This is SomeClass" << std::endl;
+}
