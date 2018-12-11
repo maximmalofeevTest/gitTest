@@ -8,6 +8,7 @@ public:
     void greeting();
     void newFeature();
     void blabla();
+    void classInfo();
 };
 
 #endif // SOMECLASS_H
