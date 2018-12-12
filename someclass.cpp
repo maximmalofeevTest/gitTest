@@ -23,5 +23,5 @@ void SomeClass::blabla()
 
 void SomeClass::classInfo()
 {
-    std::cout << "This is SomeClass" << std::endl;
+    std::cout << "==This is SomeClass==" << std::endl;
 }
