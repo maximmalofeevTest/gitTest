@@ -8,7 +8,7 @@ SomeClass::SomeClass()
 
 void SomeClass::greeting()
 {
-    std::cout << "Some class greetings you" << std::endl;
+    std::cout << "Some class greetings you!!!" << std::endl;
 }
 
 void SomeClass::newFeature()
