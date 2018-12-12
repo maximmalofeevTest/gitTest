@@ -14,5 +14,6 @@ int main(int argc, char** argv)
     someClass.greeting();
     std::cout << "Press some key to exit" << std::endl;
     std::cin.get();
+	std::cout << "Common for f1 & f2" << std::endl;
 	return 0;
 }
